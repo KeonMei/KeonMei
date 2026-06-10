@@ -38,9 +38,9 @@ Statistical analysis project using Python, Pandas, NumPy and Matplotlib
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeonMei&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeonMei&layout=compact&theme=tokyonight)
 
 ---
 
