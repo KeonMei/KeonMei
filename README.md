@@ -23,19 +23,6 @@
 
 ---
 
-## 🚀 Projects
-
-### LinguaQZ
-AI-powered translator using Flask and HuggingFace Transformers
-
-### SmartCity Bot
-Telegram bot for location recommendations using RAG
-
-### Student Performance Analysis
-Statistical analysis project using Python, Pandas, NumPy and Matplotlib
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeonMei&show_icons=true&theme=tokyonight)
