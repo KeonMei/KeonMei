@@ -35,4 +35,4 @@
 
 Telegram: @Ravily0y0
 
-Email: ravilserik8@gmail.com
+Email: rav.ser.18@mail.ru
