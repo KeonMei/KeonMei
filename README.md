@@ -25,7 +25,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KeonMei&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=KeonMei&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=KeonMei&layout=compact&theme=tokyonight)
 
