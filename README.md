@@ -36,3 +36,5 @@
 Telegram: @Ravily0y0
 
 Email: rav.ser.18@mail.ru
+
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-Resume-FF0000?style=for-the-badge)](https://astana.hh.kz/resume/87cbd181ff105a4a780039ed1f4e594270684f)
