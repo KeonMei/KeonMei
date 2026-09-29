@@ -33,8 +33,7 @@
 
 ## 📫 Contact
 
-Telegram: @Ravily0y0
-
-Email: rav.ser.18@mail.ru
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rav.ser.18@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ravily0y0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ravil-serikuly-5344bb3a0/)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-Resume-FF0000?style=for-the-badge)](https://astana.hh.kz/resume/87cbd181ff105a4a780039ed1f4e594270684f)
